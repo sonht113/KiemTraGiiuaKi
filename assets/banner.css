@@ -1,0 +1,10 @@
+.wrapper .banner{
+    margin-top: 30px;
+}
+.wrapper .banner .container{
+    max-width: 1230px;
+}
+.banner .banner-img img{
+    max-width: 100%;
+    object-fit: cover;
+}
